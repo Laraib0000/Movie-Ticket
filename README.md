@@ -1,11 +1,3 @@
-# Flutter Movie Ticket App
-
-Design by Burak Karakaya: https://dribbble.com/shots/7997364-Movie-Ticket
-
-## Preview
-
-https://user-images.githubusercontent.com/67658540/154415287-8bb0028d-ebea-4311-a55e-c2f664a0e148.mp4
-
-## Speed Code 
-
-[![Video](https://user-images.githubusercontent.com/67658540/155213986-11cd595e-e71b-44f0-b250-04cdf4058497.png)](https://www.youtube.com/watch?v=41jPxM8uUUw)
+<img width="342" alt="Screenshot 2022-08-14 at 11 40 53 PM" src="https://user-images.githubusercontent.com/90485362/184550912-fc6476d7-d539-41f6-87f5-766b209dc0a2.png">
+<img width="342" alt="Screenshot 2022-08-14 at 11 41 09 PM" src="https://user-images.githubusercontent.com/90485362/184550921-df178de9-82e2-441e-b8a4-ba1a8ce600b1.png">
+<img width="342" alt="Screenshot 2022-08-14 at 11 41 24 PM" src="https://user-images.githubusercontent.com/90485362/184550927-d7e9f37a-2402-4611-bb5b-c0fa3a718511.png">
